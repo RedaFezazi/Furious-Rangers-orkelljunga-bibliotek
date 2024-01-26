@@ -1,4 +1,9 @@
-Länk till Trello: https://trello.com/b/FRsxlDeK
+Grupp: Furious Rangers
+
+Medlemmar: Johan Skoog, Emanuele De Negri, Muhammed Reda Fezazi och Egil Ramsten. Agile planering av Örkelljungas biblioteksystem.
+
+TrelloBoard planering av projektet. https://trello.com/b/FRsxlDeK/bibliotek-orkelljunga
+
 Projektdagbok
 
 Skapa ett board med User Stories, Product Backlog, Sprint Backlog, In Progress, To-Do, Code Review och Done.
